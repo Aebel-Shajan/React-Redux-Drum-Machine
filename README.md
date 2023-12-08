@@ -1,6 +1,6 @@
 # Drum Machine
 Created a drum machine using react. States and logic were implemented using redux toolkit. 
-[CodePen] (https://codepen.io/aebel-shajan/pen/VwgReMp?editors=0010)
+[CodePen](https://codepen.io/aebel-shajan/pen/VwgReMp?editors=0010)
 
 ## User Stories
 
