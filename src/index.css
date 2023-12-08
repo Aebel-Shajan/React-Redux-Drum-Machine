@@ -98,7 +98,7 @@ code {
   box-shadow: -407px 0 0 400px var(--primary);
 }
 
-#drum-display {
+#display {
 	height: 2rem;
 	width: 80%;
 	background-color: var(--tertiary);
